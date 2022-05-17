@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Learning Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaKoudelkova/cypress_inventi.git"
+  },
+  "author": "Iva Koudelková",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvaKoudelkova/cypress_inventi/issues"
+  },
+  "homepage": "https://github.com/IvaKoudelkova/cypress_inventi#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
